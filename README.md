@@ -13,5 +13,5 @@ In this example, we have defined two functions: is_even to check if a number is 
 
 Functional programming allows us to write code that is more concise, modular and easier to understand. It is based on sound mathematical concepts and can be especially useful in situations where you want to reduce errors and facilitate reasoning about the code.
 
-Translated with www.DeepL.com/Translator (free version)
+
 
