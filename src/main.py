@@ -1,6 +1,6 @@
-import presentation
-import business_logic
-import data_persistence
+import presentation.presentation as presentation
+import business_logic2.business_logic as business_logic
+import data_persistence.data_persistence as data_persistence
 from os import system
 
 while True:
